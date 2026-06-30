@@ -1,6 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Amish Singh
 
-🚀 AI enthusiast passionate about building intelligent systems with **Agentic AI**, **Generative AI**, and **LLMs**. I enjoy designing AI-powered applications, experimenting with autonomous agents, and exploring modern AI workflows. I also have a solid foundation in **Machine Learning** and am continuously expanding my knowledge by building real-world projects.
+I'm a Computer Science student passionate about building intelligent AI systems. My primary interests are **Agentic AI**, **Generative AI**, and **Large Language Models (LLMs)**, with a growing foundation in **Machine Learning**.
+
+I enjoy building AI-powered applications, RAG pipelines, autonomous agents, and full-stack AI solutions while continuously exploring the latest advancements in AI engineering. I'm always learning, experimenting with new technologies, and creating projects that solve real-world problems.
+
+### 🚀 Interests
+
+* 🤖 Agentic AI & AI Agents
+* 🧠 Generative AI & LLMs
+* 🔍 Retrieval-Augmented Generation (RAG)
+* 📚 Machine Learning
+* 💻 Full-Stack AI Development
+
+> *Building AI that can reason, learn, and take action.*
+
 
 
 <!--
