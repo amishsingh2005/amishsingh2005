@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+🚀 AI enthusiast passionate about building intelligent systems with **Agentic AI**, **Generative AI**, and **LLMs**. I enjoy designing AI-powered applications, experimenting with autonomous agents, and exploring modern AI workflows. I also have a solid foundation in **Machine Learning** and am continuously expanding my knowledge by building real-world projects.
+
+
 <!--
 **amishsingh2005/amishsingh2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
